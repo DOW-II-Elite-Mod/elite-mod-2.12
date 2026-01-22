@@ -1,7 +1,7 @@
 IsRetribution=true
 IsSteam=true
 GameVersion=
-BinFolder=Elite_bin_Dev
+BinFolder=Elite_bin_Test
 IsDXVK=false
 LAAPatch=true
 UIWarnings=false

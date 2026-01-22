@@ -1,15 +1,15 @@
 [global]
-Name = Elite_Dev
+Name = Elite_Test
 UIName = elite
 Description = Dawn of War II: Elite
-ModVersion = 2.11
-ModFolder = elite
+ModVersion = 2.12
+ModFolder = Elite
 UCSBaseIndex = 10000000
 
 [attrib:common]
 folder.01 = Elite\DataAttrib
 folder.02 = GameAssets\DataAttrib
-archive.01 = elite\Archives\Elite_attrib.sga
+archive.01 = elite\Archives\Elite_Attrib.sga
 archive.02 = elite\Archives\Elite_Campaign_Attrib.sga
 archive.03 = elite\Archives\GameAttrib_orig.sga
 
